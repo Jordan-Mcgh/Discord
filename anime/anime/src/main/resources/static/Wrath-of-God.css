@@ -22,10 +22,12 @@
 
 .u-section-1 .u-text-1 {
   font-weight: 700;
+  font-family: Aclonica;
   margin: 104px auto 0;
 }
 
 .u-section-1 .u-text-2 {
+  font-family: Adamina;
   margin: 8px 0 0;
 }
 
@@ -33,7 +35,8 @@
   background-image: none;
   border-style: none;
   font-weight: 700;
-  margin: 8px auto 0;
+  font-family: Adamina;
+  margin: 17px auto 0;
 }
 
 .u-section-1 .u-image-1 {
